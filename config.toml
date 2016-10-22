@@ -1,0 +1,9 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Hagbarth"
+
+[taxonomies]
+category = "categories"
+
+[params]
+Subtitle = "coder | entrepreneur | not really artist, but like art and music and stuff. And food!"
