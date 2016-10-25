@@ -13,3 +13,4 @@ categories = [ "danish" ]
 * Pour over filter trakt ([link](http://www.kaffemekka.dk/shop/735-hario/695-hario-v60-2-kops-filterholder-i-plastik-vd-02-t/))
 * Eventuel Hario start kit ([link](http://www.kaffemekka.dk/shop/735-hario/1024-hario-v60-startpakke/))
 * Kaffe vægt ([link](http://www.kaffemekka.dk/shop/735-hario/1023-hario-v60-drip-scale-vst-2000/))
+* Espro press travel mug ([link](http://www.kaffemekka.dk/shop/2064-espro/4091-espro-travel-coffee-press-350ml/))
