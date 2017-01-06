@@ -1,10 +1,8 @@
 baseurl = "https://hagbarth.github.io/"
 languageCode = "en-us"
-title = "Hagbarth"
 theme = "hagbarth"
-
-[taxonomies]
-category = "categories"
-
+title = "Hagbarth"
 [params]
 Subtitle = "coder | entrepreneur | not really artist, but like art and music and stuff. And food!"
+[taxonomies]
+category = "categories"
