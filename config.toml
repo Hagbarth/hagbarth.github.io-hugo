@@ -1,6 +1,7 @@
 baseurl = "https://hagbarth.github.io/"
 languageCode = "en-us"
 title = "Hagbarth"
+theme = "hagbarth"
 
 [taxonomies]
 category = "categories"
