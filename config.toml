@@ -3,6 +3,21 @@ languageCode = "en-us"
 theme = "hagbarth"
 title = "Hagbarth"
 [params]
-Subtitle = "coder | entrepreneur | not really artist, but like art and music and stuff. And food!"
+  title = "Emil Hagbarth"
+  subtitle = ""
+  favicon   = "favicon.ico"
+  name = "Emil Hagbarth"
+  bio = "coder | entrepreneur | not really artist, but like art and music and stuff. And food!"
+  description = "YAB"
+
+  location = "Aarhus, Denmark"
+  
+  twitter = "spjer"
+  github = "hagbarth"
+
+  keepReadingStr = "Keep reading"
+  backtotopStr = "Back to top"
+  shareStr = "Share"
+  pageNotFoundTitle = "404 - Page not found"
 [taxonomies]
-category = "categories"
+  category = "categories"

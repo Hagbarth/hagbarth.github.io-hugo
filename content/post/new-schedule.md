@@ -1,11 +1,9 @@
 +++
 date = "2016-09-07T00:12:04+02:00"
 title = "New Schedule!"
+description = "So I read this Medium post about how you should get up really early in the morning and work very focused for about 5 ours before doing anything else."
 categories = [ "musings" ]
 +++
-
-# I have a new schedule!
-### Do you want to see it?
 
 So I read this [Medium post](https://medium.com/the-mission/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3)
 about how you should get up really early in the morning and work very focused for about 5 ours before doing anything else.
@@ -29,7 +27,3 @@ So without further ado - my day:
 So that's my new day! Not getting up to early. I don't need the early mornings to have quiet time. I work mostly from home and my girlfriend leaves before 7am anyway, so I have plenty of wiggle room for my brain to operate in. Also blocked out time for *not work*. This is key to not getting burned out (and keeping my SO). Still on really busy days I have a good 11 hours to work in!
 
 I'll have more stuff on **pomodoro** and how this works out for me.
-
---
-
-Emil Hagbarth

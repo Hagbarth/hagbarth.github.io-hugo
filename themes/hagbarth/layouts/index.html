@@ -1,21 +1,16 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ .Site.Title }}</title>
-    <link href="/css/flexboxgrid.min.css" rel="stylesheet" type="text/css">
-    <link href="/css/style.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>
-    {{ partial "header.html" . }}
-    <div class="container">
-      <div class="container-inner">
-        <div class="row">
-        {{ partial "intro.html" . }}
-        {{ partial "categories.html" . }}
-        </div>
+{{ partial "header.html" . }}
+
+<body>
+  {{ partial "nav.html" . }}
+  <h1>{{ .Title }}</h1>
+  <div class="container">
+    <div class="container-inner">
+      <div class="row">
+        {{ .Content }}
       </div>
-      {{ partial "footer.html" . }}
     </div>
-  </body>
+  </div>
+  {{ partial "footer.html" . }}
+</body>
+
 </html>
