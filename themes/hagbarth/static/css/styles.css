@@ -18,3 +18,15 @@ ul.inline {
   list-style-type: none;
   display: inline;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 5px;
+}
