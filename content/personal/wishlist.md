@@ -14,3 +14,4 @@ Devold Nordsjø Sweater L  | 1.099   |  [spejdersport](https://www.spejdersport.
 Aeropress                 | 197     |  [kaffemekka](https://www.kaffemekka.dk/shop/715-aeropress/555-aeropress-kaffebrygger/?gclid=EAIaIQobChMIv7KA1KHe1gIVJbXtCh27qghnEAQYASABEgJyBvD_BwE)
 Nak & Æd kop              | 75      |  [specialbutikken](https://www.specialbutikken.dk/stabilo-therm-traekop.aspx?gclid=EAIaIQobChMI25PM6qLe1gIVUouyCh1bvwZ8EAQYAyABEgK7tvD_BwE)
 TRÅDFRI Sæt med Gateway   | 529     |  [ikea](http://www.ikea.com/dk/da/catalog/products/80338960/)
+Støbejern Sautepane       | 650     |  [kunst of køkkentøj](http://www.kunstogkokkentoj.dk/da/product/gryder-og-pander/sauterpande-stoebejern-oe-20-cm)
